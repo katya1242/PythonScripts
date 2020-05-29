@@ -1,3 +1,8 @@
-.idea
+#Unrelated files:
+*.idea
 *.json
+*.ini
+
+#Misc directories:
 res
+venv/Python_sandbox/
